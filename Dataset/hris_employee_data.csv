@@ -1,0 +1,601 @@
+Employee_ID,Department,Job_Title,Location,Hire_Date,Employment_Type,Employment_Status,Termination_Date,Annual_Salary,Performance_Rating,Absence_Days_YTD,Training_Hours_YTD,Overtime_Hours_YTD
+EMP0001,Operations,Operations Coordinator,Montreal,2024-02-15,Part-time,Active,,40500,3.5,7,10,8
+EMP0002,Marketing,Marketing Specialist,Quebec City,2025-01-20,Full-time,Active,,79400,3.1,2,21,9
+EMP0003,Customer Service,Team Lead,Montreal,2023-07-30,Full-time,Terminated,2025-11-21,61400,2.8,8,25,7
+EMP0004,Human Resources,HR Analyst,Toronto,2025-11-08,Full-time,Active,,55400,2.9,3,2,5
+EMP0005,Sales,Sales Manager,Quebec City,2022-06-09,Full-time,Terminated,2025-01-01,59900,3.3,3,19,10
+EMP0006,Marketing,Marketing Manager,Toronto,2025-03-19,Full-time,Terminated,2025-08-09,58700,2.5,3,22,10
+EMP0007,IT,Data Analyst,Quebec City,2025-04-22,Full-time,Active,,67400,3.7,7,14,12
+EMP0008,IT,Software Developer,Toronto,2025-11-29,Full-time,Active,,82700,3.6,5,30,11
+EMP0009,Human Resources,Recruiter,Ottawa,2022-11-06,Full-time,Active,,54700,3.9,4,35,2
+EMP0010,IT,Software Developer,Montreal,2026-08-12,Full-time,Active,,80400,3.5,3,17,20
+EMP0011,Human Resources,HR Analyst,Quebec City,2024-12-21,Full-time,Active,,51000,2.8,7,13,7
+EMP0012,Customer Service,Service Manager,Quebec City,2023-01-30,Full-time,Active,,51400,4.2,4,32,20
+EMP0013,Finance,Finance Manager,Quebec City,2023-10-11,Part-time,Active,,58100,3.1,2,30,7
+EMP0014,Finance,Accountant,Montreal,2023-06-08,Full-time,Active,,58300,4.1,4,15,13
+EMP0015,Customer Service,Team Lead,Quebec City,2024-07-09,Part-time,Active,,51600,2.6,8,28,3
+EMP0016,Finance,Financial Analyst,Toronto,2023-08-14,Full-time,Active,,92300,2.7,7,7,4
+EMP0017,Marketing,Digital Marketing Analyst,Ottawa,2023-07-17,Full-time,Active,,70700,3.3,1,15,7
+EMP0018,Sales,Sales Representative,Quebec City,2024-06-30,Full-time,Active,,65500,2.9,2,36,18
+EMP0019,Human Resources,Recruiter,Quebec City,2022-01-13,Full-time,Terminated,2023-12-25,72100,3.8,8,15,7
+EMP0020,Sales,Sales Manager,Quebec City,2023-11-12,Full-time,Active,,60900,3.6,4,8,5
+EMP0021,Customer Service,Service Manager,Montreal,2024-04-29,Full-time,Active,,68100,4.0,7,28,11
+EMP0022,Human Resources,Recruiter,Ottawa,2026-07-11,Full-time,Active,,53200,3.9,5,12,14
+EMP0023,Sales,Sales Manager,Toronto,2024-07-11,Full-time,Active,,82700,3.0,2,21,12
+EMP0024,Operations,Operations Manager,Toronto,2023-08-13,Part-time,Active,,64900,3.3,4,31,3
+EMP0025,Marketing,Digital Marketing Analyst,Ottawa,2024-04-26,Full-time,Active,,75400,3.8,5,29,1
+EMP0026,Sales,Sales Representative,Ottawa,2024-02-21,Full-time,Terminated,2025-05-05,68000,3.4,6,20,9
+EMP0027,Finance,Finance Manager,Ottawa,2026-02-17,Full-time,Terminated,2026-09-24,73700,3.3,3,0,3
+EMP0028,Customer Service,Customer Service Representative,Toronto,2025-09-25,Full-time,Active,,48200,3.3,6,25,20
+EMP0029,Human Resources,HR Coordinator,Toronto,2024-12-24,Full-time,Active,,38800,2.9,6,29,5
+EMP0030,Operations,Operations Analyst,Quebec City,2025-02-20,Contract,Active,,60500,4.9,2,27,3
+EMP0031,Operations,Operations Manager,Quebec City,2023-12-29,Full-time,Active,,39100,3.1,6,19,10
+EMP0032,Sales,Sales Representative,Quebec City,2024-02-01,Full-time,Active,,67400,3.5,7,23,13
+EMP0033,IT,Software Developer,Quebec City,2023-08-14,Full-time,Terminated,2025-02-27,61800,2.3,3,0,4
+EMP0034,Operations,Operations Manager,Toronto,2024-01-20,Full-time,Active,,58700,3.3,3,26,19
+EMP0035,Marketing,Marketing Specialist,Montreal,2025-11-16,Full-time,Terminated,2026-10-29,61100,3.5,3,13,9
+EMP0036,IT,Data Analyst,Montreal,2024-05-15,Full-time,Active,,73300,2.8,5,24,10
+EMP0037,Sales,Account Manager,Montreal,2025-09-19,Part-time,Active,,61600,2.6,4,21,6
+EMP0038,IT,IT Support Specialist,Ottawa,2022-12-05,Full-time,Active,,88000,2.3,1,9,7
+EMP0039,Operations,Operations Manager,Ottawa,2024-04-23,Full-time,Active,,38000,3.2,8,34,1
+EMP0040,Operations,Operations Manager,Montreal,2024-05-14,Contract,Active,,42400,3.0,5,2,9
+EMP0041,Operations,Operations Manager,Toronto,2025-06-13,Full-time,Active,,47800,3.6,3,20,3
+EMP0042,IT,Software Developer,Quebec City,2026-05-01,Full-time,Active,,55400,5.0,5,23,9
+EMP0043,Marketing,Digital Marketing Analyst,Montreal,2026-10-30,Full-time,Active,,64400,2.1,5,23,8
+EMP0044,Operations,Operations Manager,Ottawa,2023-08-30,Full-time,Active,,61800,3.1,8,6,11
+EMP0045,Marketing,Marketing Specialist,Toronto,2023-05-16,Full-time,Active,,64100,3.9,7,13,4
+EMP0046,IT,Data Analyst,Quebec City,2022-03-05,Contract,Terminated,2024-12-11,73300,2.7,3,17,13
+EMP0047,Finance,Financial Analyst,Montreal,2026-09-22,Full-time,Active,,67800,2.6,0,16,2
+EMP0048,IT,IT Support Specialist,Quebec City,2024-08-31,Part-time,Active,,94400,2.3,4,7,9
+EMP0049,Human Resources,HR Manager,Quebec City,2023-07-18,Part-time,Terminated,2024-03-17,67500,2.2,5,26,20
+EMP0050,Operations,Operations Manager,Ottawa,2026-02-19,Full-time,Active,,50800,4.7,6,24,10
+EMP0051,IT,IT Support Specialist,Toronto,2022-02-03,Full-time,Active,,100400,4.4,4,21,6
+EMP0052,Human Resources,HR Manager,Montreal,2022-01-30,Contract,Active,,59100,3.4,3,6,9
+EMP0053,Marketing,Marketing Specialist,Quebec City,2022-02-02,Full-time,Terminated,2025-02-14,77200,2.6,8,12,8
+EMP0054,Human Resources,Recruiter,Montreal,2025-09-25,Full-time,Active,,62000,3.0,7,16,15
+EMP0055,Marketing,Marketing Manager,Ottawa,2026-08-05,Full-time,Active,,57700,3.2,2,35,6
+EMP0056,Customer Service,Team Lead,Montreal,2025-01-15,Full-time,Active,,58300,4.1,5,21,9
+EMP0057,Customer Service,Team Lead,Toronto,2025-07-08,Full-time,Active,,49900,4.0,4,8,11
+EMP0058,Sales,Sales Representative,Quebec City,2026-04-10,Full-time,Active,,63800,3.6,5,14,3
+EMP0059,Finance,Financial Analyst,Toronto,2022-05-25,Full-time,Active,,60500,3.8,6,15,2
+EMP0060,Marketing,Marketing Specialist,Montreal,2024-12-26,Full-time,Active,,59100,4.3,5,10,7
+EMP0061,Sales,Sales Representative,Montreal,2023-05-14,Full-time,Terminated,2025-03-11,62400,3.4,6,26,12
+EMP0062,IT,IT Manager,Montreal,2024-12-09,Full-time,Active,,78000,1.2,6,30,4
+EMP0063,Operations,Operations Coordinator,Ottawa,2025-11-02,Full-time,Active,,50900,3.4,4,15,6
+EMP0064,Customer Service,Team Lead,Montreal,2023-07-18,Full-time,Active,,44400,3.7,5,5,8
+EMP0065,Customer Service,Team Lead,Quebec City,2024-07-27,Full-time,Active,,65200,4.4,8,23,6
+EMP0066,Operations,Operations Analyst,Quebec City,2025-03-03,Full-time,Active,,48400,3.0,4,14,10
+EMP0067,Customer Service,Service Manager,Toronto,2022-12-24,Full-time,Active,,44900,3.4,5,13,6
+EMP0068,Sales,Sales Representative,Quebec City,2026-07-11,Part-time,Active,,75700,3.5,10,31,7
+EMP0069,IT,IT Support Specialist,Quebec City,2024-10-31,Full-time,Active,,76900,2.9,1,22,17
+EMP0070,Operations,Operations Coordinator,Ottawa,2022-07-24,Full-time,Terminated,2022-11-29,51900,5.0,5,18,4
+EMP0071,Marketing,Digital Marketing Analyst,Montreal,2024-10-13,Full-time,Active,,66000,3.5,7,23,10
+EMP0072,IT,Data Analyst,Toronto,2023-07-26,Part-time,Active,,96300,4.5,5,14,8
+EMP0073,Human Resources,HR Manager,Toronto,2023-02-05,Full-time,Active,,56900,4.7,6,16,15
+EMP0074,Operations,Operations Analyst,Montreal,2022-12-22,Full-time,Terminated,2025-01-15,38000,3.0,3,27,13
+EMP0075,Customer Service,Service Manager,Montreal,2022-08-31,Full-time,Active,,50200,4.5,5,9,3
+EMP0076,Operations,Operations Coordinator,Montreal,2022-02-16,Full-time,Terminated,2023-08-29,41000,3.3,6,10,10
+EMP0077,Finance,Accountant,Quebec City,2024-11-22,Full-time,Active,,66400,4.2,4,9,17
+EMP0078,Finance,Finance Manager,Quebec City,2022-07-04,Full-time,Active,,60800,2.9,2,25,4
+EMP0079,Customer Service,Team Lead,Quebec City,2025-05-20,Full-time,Terminated,2025-09-30,38000,4.4,5,24,4
+EMP0080,Marketing,Marketing Manager,Montreal,2022-10-28,Contract,Active,,66900,2.8,3,29,2
+EMP0081,IT,IT Support Specialist,Ottawa,2024-02-02,Full-time,Active,,62100,2.2,6,17,20
+EMP0082,Operations,Operations Manager,Montreal,2023-11-19,Full-time,Active,,61400,2.8,6,12,6
+EMP0083,Operations,Operations Manager,Toronto,2024-09-20,Full-time,Active,,38100,4.0,0,20,1
+EMP0084,IT,IT Manager,Quebec City,2024-09-24,Full-time,Active,,77600,3.6,7,23,11
+EMP0085,Customer Service,Service Manager,Quebec City,2024-12-08,Full-time,Terminated,2026-08-21,45100,2.9,3,21,1
+EMP0086,Finance,Finance Manager,Montreal,2025-01-11,Full-time,Active,,70500,3.6,2,1,2
+EMP0087,IT,Software Developer,Quebec City,2023-02-01,Contract,Active,,89200,3.2,2,13,2
+EMP0088,Human Resources,HR Manager,Ottawa,2022-12-26,Full-time,Active,,56200,2.4,2,22,4
+EMP0089,Sales,Sales Manager,Quebec City,2025-06-04,Full-time,Active,,45900,3.1,9,21,9
+EMP0090,Customer Service,Team Lead,Montreal,2023-01-16,Full-time,Active,,45500,2.1,2,21,2
+EMP0091,Sales,Sales Manager,Quebec City,2022-06-03,Full-time,Terminated,2022-10-24,85400,3.3,4,13,4
+EMP0092,Customer Service,Customer Service Representative,Quebec City,2024-08-06,Full-time,Active,,44300,2.2,4,26,6
+EMP0093,Sales,Account Manager,Montreal,2022-11-19,Full-time,Active,,54900,4.1,4,3,7
+EMP0094,IT,IT Support Specialist,Montreal,2026-10-23,Full-time,Active,,74600,2.4,4,15,4
+EMP0095,Marketing,Marketing Manager,Montreal,2025-02-18,Full-time,Active,,64700,3.5,9,5,1
+EMP0096,Finance,Accountant,Toronto,2025-01-11,Full-time,Terminated,2025-06-06,66200,3.1,6,25,1
+EMP0097,IT,IT Manager,Montreal,2023-03-15,Full-time,Terminated,2024-06-28,70200,2.6,7,16,9
+EMP0098,Operations,Operations Analyst,Quebec City,2023-07-09,Full-time,Active,,68000,1.9,12,16,0
+EMP0099,IT,IT Support Specialist,Toronto,2024-09-30,Full-time,Active,,104000,4.0,9,10,9
+EMP0100,Finance,Finance Manager,Montreal,2022-04-13,Contract,Active,,52800,2.9,4,10,2
+EMP0101,IT,IT Support Specialist,Montreal,2026-08-31,Full-time,Active,,64500,3.2,4,27,0
+EMP0102,Finance,Finance Manager,Quebec City,2024-07-05,Full-time,Active,,66600,1.6,4,16,3
+EMP0103,IT,Software Developer,Quebec City,2023-12-14,Part-time,Active,,70200,4.2,4,19,5
+EMP0104,IT,Software Developer,Quebec City,2023-04-30,Full-time,Active,,74500,5.0,3,18,11
+EMP0105,Customer Service,Team Lead,Quebec City,2026-02-11,Part-time,Active,,53100,2.5,8,4,9
+EMP0106,IT,IT Support Specialist,Montreal,2022-07-28,Full-time,Active,,80600,3.3,8,24,7
+EMP0107,IT,IT Support Specialist,Ottawa,2025-02-01,Full-time,Active,,74300,3.4,7,26,8
+EMP0108,Human Resources,HR Analyst,Montreal,2023-01-24,Full-time,Terminated,2024-11-26,72500,3.0,3,3,1
+EMP0109,Customer Service,Team Lead,Toronto,2023-06-11,Full-time,Terminated,2024-05-14,75100,3.6,8,16,4
+EMP0110,Sales,Sales Representative,Ottawa,2022-09-07,Contract,Active,,58500,3.9,2,12,22
+EMP0111,Finance,Accountant,Toronto,2025-12-31,Full-time,Active,,68400,3.4,5,10,7
+EMP0112,Finance,Finance Manager,Montreal,2026-01-27,Full-time,Terminated,2026-10-09,59400,3.0,5,23,19
+EMP0113,Operations,Operations Manager,Montreal,2026-06-22,Full-time,Terminated,2026-09-25,55000,2.6,3,43,4
+EMP0114,Sales,Account Manager,Ottawa,2024-05-31,Full-time,Active,,50100,2.6,5,28,14
+EMP0115,Finance,Accountant,Quebec City,2023-01-19,Full-time,Active,,71000,2.0,2,12,4
+EMP0116,IT,IT Support Specialist,Toronto,2025-02-06,Full-time,Active,,60800,3.4,6,13,10
+EMP0117,Sales,Account Manager,Ottawa,2025-02-02,Part-time,Active,,78400,2.7,8,23,7
+EMP0118,IT,Software Developer,Quebec City,2025-08-16,Full-time,Active,,82100,2.3,4,23,3
+EMP0119,IT,Software Developer,Montreal,2022-04-25,Full-time,Active,,80100,3.7,5,19,5
+EMP0120,Sales,Sales Manager,Montreal,2022-09-22,Full-time,Active,,58200,2.6,4,24,17
+EMP0121,Human Resources,HR Analyst,Montreal,2024-02-15,Full-time,Active,,61100,3.8,4,12,1
+EMP0122,Finance,Financial Analyst,Quebec City,2025-12-26,Part-time,Terminated,2026-05-31,74600,2.5,5,22,13
+EMP0123,Operations,Operations Manager,Toronto,2025-06-05,Full-time,Active,,74400,2.5,5,10,15
+EMP0124,Marketing,Marketing Specialist,Quebec City,2025-03-05,Part-time,Active,,57100,3.5,4,9,3
+EMP0125,Operations,Operations Coordinator,Toronto,2022-09-05,Full-time,Active,,64300,4.1,5,15,3
+EMP0126,IT,IT Support Specialist,Montreal,2024-03-14,Full-time,Active,,79400,3.5,4,32,9
+EMP0127,Marketing,Marketing Specialist,Montreal,2022-01-11,Full-time,Active,,62800,2.8,4,26,7
+EMP0128,Marketing,Digital Marketing Analyst,Ottawa,2024-06-04,Part-time,Active,,61000,3.7,3,8,14
+EMP0129,Sales,Account Manager,Quebec City,2022-09-25,Full-time,Active,,66700,2.9,8,0,7
+EMP0130,Customer Service,Service Manager,Quebec City,2023-02-05,Full-time,Terminated,2023-12-29,50200,3.1,4,35,3
+EMP0131,Marketing,Marketing Specialist,Ottawa,2024-10-07,Full-time,Terminated,2026-01-15,53600,4.3,7,4,20
+EMP0132,Sales,Account Manager,Montreal,2025-12-28,Full-time,Active,,64600,3.3,1,0,5
+EMP0133,IT,Software Developer,Montreal,2023-04-28,Full-time,Active,,58200,3.7,1,19,13
+EMP0134,Sales,Sales Representative,Toronto,2025-11-11,Full-time,Active,,67100,3.5,7,2,3
+EMP0135,Operations,Operations Coordinator,Toronto,2025-07-29,Full-time,Active,,53200,3.7,2,22,5
+EMP0136,IT,IT Manager,Quebec City,2026-03-01,Full-time,Active,,82400,3.5,4,27,7
+EMP0137,Marketing,Marketing Manager,Quebec City,2024-05-27,Part-time,Terminated,2026-10-06,68700,3.6,5,11,2
+EMP0138,Human Resources,Recruiter,Montreal,2024-06-23,Full-time,Active,,49600,3.6,5,9,15
+EMP0139,Customer Service,Service Manager,Ottawa,2022-06-04,Full-time,Active,,40800,2.8,5,22,10
+EMP0140,IT,Software Developer,Ottawa,2025-03-03,Full-time,Active,,62800,3.3,4,9,6
+EMP0141,Finance,Finance Manager,Montreal,2023-04-08,Full-time,Active,,59000,3.3,6,14,11
+EMP0142,Sales,Sales Representative,Quebec City,2022-06-13,Full-time,Active,,65100,2.9,7,23,25
+EMP0143,IT,Data Analyst,Toronto,2022-11-29,Full-time,Terminated,2024-12-22,71800,3.3,6,12,1
+EMP0144,Human Resources,HR Manager,Toronto,2026-08-15,Contract,Active,,66400,4.2,6,19,5
+EMP0145,IT,Software Developer,Montreal,2023-05-01,Full-time,Terminated,2024-02-22,76900,2.6,4,34,4
+EMP0146,Sales,Sales Representative,Quebec City,2023-10-28,Part-time,Active,,70000,3.9,3,28,15
+EMP0147,Operations,Operations Analyst,Toronto,2022-04-28,Part-time,Terminated,2026-05-10,56400,2.7,7,25,8
+EMP0148,Customer Service,Customer Service Representative,Quebec City,2022-07-18,Full-time,Active,,53400,3.2,4,22,0
+EMP0149,Finance,Accountant,Quebec City,2024-03-09,Part-time,Terminated,2026-02-05,70800,3.0,4,31,5
+EMP0150,Human Resources,HR Analyst,Quebec City,2024-11-17,Contract,Terminated,2025-10-16,51300,3.9,7,32,18
+EMP0151,IT,Software Developer,Quebec City,2022-12-14,Full-time,Active,,94300,2.7,4,14,0
+EMP0152,Operations,Operations Coordinator,Toronto,2026-02-02,Full-time,Active,,70600,3.0,8,20,3
+EMP0153,Human Resources,Recruiter,Montreal,2024-05-01,Full-time,Active,,54000,3.6,5,14,0
+EMP0154,Human Resources,HR Analyst,Toronto,2023-12-06,Full-time,Active,,71200,2.8,6,18,14
+EMP0155,Customer Service,Team Lead,Quebec City,2023-11-06,Full-time,Active,,60300,3.5,6,16,7
+EMP0156,Sales,Account Manager,Montreal,2025-02-08,Full-time,Active,,60800,4.0,5,18,13
+EMP0157,Human Resources,HR Coordinator,Toronto,2023-03-25,Full-time,Terminated,2023-10-19,57200,2.9,4,13,4
+EMP0158,Customer Service,Service Manager,Montreal,2026-01-04,Full-time,Active,,51300,3.2,4,16,7
+EMP0159,IT,IT Manager,Quebec City,2023-03-18,Full-time,Terminated,2025-07-14,90900,2.8,6,20,13
+EMP0160,Sales,Sales Representative,Montreal,2024-12-22,Full-time,Active,,74900,2.9,3,12,6
+EMP0161,Sales,Sales Manager,Toronto,2022-10-07,Full-time,Active,,62600,4.8,1,14,13
+EMP0162,Sales,Account Manager,Toronto,2022-06-03,Full-time,Terminated,2024-05-05,63000,2.7,7,17,4
+EMP0163,Sales,Sales Manager,Quebec City,2023-02-15,Full-time,Active,,63800,1.8,9,28,2
+EMP0164,Sales,Account Manager,Quebec City,2023-08-29,Full-time,Active,,72000,3.5,6,26,6
+EMP0165,Marketing,Marketing Specialist,Toronto,2023-05-29,Part-time,Active,,69400,2.8,8,13,16
+EMP0166,IT,Software Developer,Toronto,2023-03-11,Full-time,Terminated,2025-12-12,79800,2.1,7,32,3
+EMP0167,Marketing,Digital Marketing Analyst,Quebec City,2023-04-28,Full-time,Terminated,2024-01-26,80800,2.8,7,28,5
+EMP0168,Marketing,Marketing Manager,Montreal,2025-05-01,Full-time,Active,,55300,4.5,5,0,15
+EMP0169,Sales,Account Manager,Montreal,2026-10-16,Full-time,Active,,63000,2.6,4,14,5
+EMP0170,IT,Data Analyst,Quebec City,2024-09-07,Full-time,Active,,87300,3.7,4,16,13
+EMP0171,Finance,Finance Manager,Quebec City,2022-11-26,Full-time,Active,,82100,2.4,9,7,11
+EMP0172,Sales,Sales Representative,Ottawa,2025-04-07,Part-time,Active,,68300,3.4,4,19,7
+EMP0173,Human Resources,HR Coordinator,Quebec City,2025-01-31,Full-time,Active,,60900,3.1,8,14,2
+EMP0174,Customer Service,Customer Service Representative,Montreal,2024-05-19,Full-time,Active,,39800,4.2,3,24,8
+EMP0175,Sales,Account Manager,Montreal,2023-05-14,Full-time,Active,,72000,4.0,5,11,0
+EMP0176,Sales,Account Manager,Montreal,2024-03-28,Part-time,Active,,62300,3.1,3,8,17
+EMP0177,Sales,Sales Manager,Toronto,2023-02-15,Full-time,Active,,65100,3.0,9,23,3
+EMP0178,Finance,Finance Manager,Ottawa,2023-12-26,Full-time,Active,,69100,2.0,1,12,3
+EMP0179,IT,IT Support Specialist,Quebec City,2024-07-23,Full-time,Active,,65900,4.0,2,24,2
+EMP0180,Finance,Finance Manager,Montreal,2026-09-29,Full-time,Active,,95400,4.1,5,28,7
+EMP0181,Customer Service,Team Lead,Montreal,2022-04-12,Part-time,Terminated,2024-10-01,38000,4.0,4,10,18
+EMP0182,Finance,Accountant,Montreal,2022-08-02,Full-time,Active,,74900,5.0,7,8,0
+EMP0183,Customer Service,Service Manager,Quebec City,2026-01-11,Full-time,Active,,53300,4.1,7,10,9
+EMP0184,Finance,Financial Analyst,Ottawa,2025-04-17,Full-time,Active,,54600,3.5,4,13,4
+EMP0185,Customer Service,Service Manager,Montreal,2026-07-10,Full-time,Active,,43600,3.4,4,8,12
+EMP0186,Finance,Accountant,Toronto,2022-12-30,Full-time,Active,,77800,3.6,4,27,3
+EMP0187,Operations,Operations Coordinator,Montreal,2022-05-04,Full-time,Terminated,2022-12-11,80000,3.4,7,24,5
+EMP0188,Sales,Sales Representative,Quebec City,2024-10-04,Full-time,Active,,67000,2.4,3,3,16
+EMP0189,Sales,Sales Manager,Montreal,2022-01-09,Full-time,Active,,64600,3.5,8,16,8
+EMP0190,Sales,Account Manager,Quebec City,2024-12-26,Full-time,Active,,67400,3.9,5,38,11
+EMP0191,Customer Service,Customer Service Representative,Toronto,2025-12-11,Full-time,Active,,46000,1.9,3,14,4
+EMP0192,IT,IT Manager,Montreal,2022-12-29,Full-time,Active,,86100,3.0,4,16,6
+EMP0193,Finance,Financial Analyst,Montreal,2026-08-22,Full-time,Active,,74200,3.7,5,29,6
+EMP0194,Operations,Operations Manager,Quebec City,2023-04-23,Full-time,Active,,67700,4.5,3,13,2
+EMP0195,Customer Service,Team Lead,Toronto,2022-06-23,Full-time,Active,,51100,3.5,5,25,7
+EMP0196,Operations,Operations Analyst,Quebec City,2026-02-24,Full-time,Active,,43000,4.2,2,13,4
+EMP0197,Customer Service,Customer Service Representative,Toronto,2026-08-31,Full-time,Active,,62600,4.1,4,36,10
+EMP0198,Human Resources,HR Coordinator,Quebec City,2026-03-12,Full-time,Active,,59400,3.5,2,28,18
+EMP0199,Finance,Accountant,Quebec City,2023-05-25,Full-time,Active,,58900,3.7,3,23,6
+EMP0200,Customer Service,Service Manager,Montreal,2025-02-20,Part-time,Terminated,2025-09-09,49500,2.6,6,15,8
+EMP0201,IT,Data Analyst,Montreal,2024-08-10,Full-time,Active,,84600,2.7,4,15,1
+EMP0202,Finance,Finance Manager,Quebec City,2024-03-03,Full-time,Active,,60900,2.7,4,26,6
+EMP0203,Customer Service,Service Manager,Montreal,2024-06-22,Full-time,Active,,53100,2.3,3,9,3
+EMP0204,IT,Software Developer,Toronto,2022-04-23,Full-time,Terminated,2023-07-13,69000,4.2,8,14,9
+EMP0205,Human Resources,HR Coordinator,Montreal,2022-12-03,Full-time,Terminated,2023-08-27,66700,3.7,8,12,2
+EMP0206,Customer Service,Team Lead,Quebec City,2022-05-30,Full-time,Active,,44000,2.6,5,7,14
+EMP0207,IT,Software Developer,Toronto,2023-08-01,Full-time,Active,,72700,4.1,6,12,19
+EMP0208,Sales,Sales Representative,Montreal,2024-09-20,Full-time,Active,,82700,3.7,6,14,0
+EMP0209,IT,IT Manager,Montreal,2022-12-20,Full-time,Active,,101100,3.0,5,8,5
+EMP0210,Sales,Account Manager,Toronto,2022-01-05,Full-time,Active,,69800,3.1,2,26,13
+EMP0211,Customer Service,Service Manager,Montreal,2025-03-20,Full-time,Active,,44100,3.9,4,11,14
+EMP0212,Human Resources,Recruiter,Quebec City,2022-05-16,Full-time,Active,,69000,3.8,5,14,6
+EMP0213,Human Resources,Recruiter,Montreal,2024-04-15,Full-time,Terminated,2025-03-22,55100,4.7,5,9,7
+EMP0214,Marketing,Marketing Manager,Ottawa,2024-09-20,Full-time,Active,,59100,2.6,1,0,7
+EMP0215,Human Resources,HR Manager,Quebec City,2023-10-06,Part-time,Active,,62300,3.2,3,12,10
+EMP0216,Customer Service,Customer Service Representative,Toronto,2026-05-13,Full-time,Active,,69600,3.3,7,8,10
+EMP0217,Sales,Sales Manager,Ottawa,2024-02-03,Part-time,Active,,69300,2.9,9,17,0
+EMP0218,Finance,Accountant,Toronto,2025-12-12,Full-time,Active,,69200,3.5,1,16,13
+EMP0219,Sales,Account Manager,Quebec City,2025-12-01,Full-time,Active,,85600,2.2,9,18,7
+EMP0220,Human Resources,HR Manager,Montreal,2022-09-29,Part-time,Terminated,2023-02-02,53000,3.9,5,15,11
+EMP0221,Finance,Accountant,Montreal,2022-08-30,Full-time,Terminated,2024-03-15,90700,2.0,8,15,14
+EMP0222,Customer Service,Service Manager,Toronto,2022-11-22,Contract,Active,,58600,3.9,4,15,7
+EMP0223,IT,Software Developer,Toronto,2025-08-09,Full-time,Active,,88500,4.4,8,5,3
+EMP0224,Marketing,Marketing Manager,Montreal,2026-04-09,Contract,Active,,70900,3.4,2,15,1
+EMP0225,Finance,Accountant,Montreal,2025-03-04,Full-time,Active,,66700,3.3,5,25,3
+EMP0226,Sales,Sales Manager,Montreal,2026-04-13,Full-time,Active,,57800,4.2,5,26,5
+EMP0227,Human Resources,HR Coordinator,Quebec City,2025-12-11,Full-time,Active,,60200,3.3,4,25,11
+EMP0228,Finance,Finance Manager,Quebec City,2024-01-07,Part-time,Active,,47100,3.5,4,17,8
+EMP0229,Sales,Sales Manager,Toronto,2023-06-08,Full-time,Active,,64400,4.8,3,12,1
+EMP0230,Human Resources,Recruiter,Montreal,2023-09-07,Contract,Terminated,2024-08-13,59700,4.5,4,13,0
+EMP0231,Operations,Operations Coordinator,Quebec City,2024-08-08,Full-time,Active,,65600,2.7,17,32,6
+EMP0232,Customer Service,Customer Service Representative,Quebec City,2024-03-02,Full-time,Active,,64000,4.5,5,35,2
+EMP0233,Marketing,Digital Marketing Analyst,Quebec City,2025-09-09,Full-time,Active,,64100,3.4,5,0,1
+EMP0234,Finance,Financial Analyst,Montreal,2025-11-19,Full-time,Active,,61000,3.5,10,29,3
+EMP0235,Sales,Sales Representative,Quebec City,2025-04-30,Contract,Active,,55100,2.8,2,23,5
+EMP0236,Operations,Operations Manager,Quebec City,2025-02-12,Full-time,Active,,53400,4.0,1,20,6
+EMP0237,Marketing,Digital Marketing Analyst,Montreal,2026-07-13,Full-time,Active,,68500,3.6,7,31,3
+EMP0238,IT,Software Developer,Montreal,2025-11-19,Full-time,Active,,112700,2.1,3,12,5
+EMP0239,Operations,Operations Manager,Ottawa,2024-06-27,Full-time,Active,,59800,3.7,4,17,14
+EMP0240,Marketing,Digital Marketing Analyst,Quebec City,2022-09-13,Full-time,Terminated,2024-08-24,51200,3.8,6,1,2
+EMP0241,Human Resources,Recruiter,Quebec City,2026-10-31,Full-time,Active,,78500,3.0,8,17,5
+EMP0242,Sales,Sales Manager,Montreal,2024-07-12,Part-time,Active,,55800,3.3,5,14,3
+EMP0243,Sales,Sales Manager,Montreal,2025-12-18,Full-time,Active,,78500,3.2,5,9,3
+EMP0244,Sales,Sales Manager,Ottawa,2026-01-03,Full-time,Active,,63100,3.3,2,0,6
+EMP0245,Human Resources,HR Analyst,Quebec City,2022-05-09,Full-time,Terminated,2023-07-02,44100,2.0,6,32,9
+EMP0246,IT,IT Manager,Montreal,2023-08-22,Full-time,Active,,76600,2.4,3,6,8
+EMP0247,Finance,Financial Analyst,Quebec City,2024-10-18,Full-time,Active,,68600,3.1,3,0,2
+EMP0248,Sales,Sales Representative,Ottawa,2022-04-22,Contract,Terminated,2026-10-17,68500,3.9,1,3,28
+EMP0249,Finance,Accountant,Toronto,2025-06-18,Full-time,Active,,94600,2.4,4,21,8
+EMP0250,Sales,Sales Representative,Montreal,2024-08-26,Full-time,Active,,73600,2.3,9,31,7
+EMP0251,Finance,Financial Analyst,Toronto,2023-11-25,Full-time,Active,,67400,1.9,5,18,13
+EMP0252,Sales,Account Manager,Quebec City,2026-01-02,Part-time,Active,,59900,2.8,5,20,19
+EMP0253,Finance,Finance Manager,Montreal,2023-11-25,Full-time,Terminated,2026-05-02,76500,3.1,4,28,2
+EMP0254,Customer Service,Team Lead,Quebec City,2023-06-10,Full-time,Terminated,2025-05-20,41500,3.2,4,38,17
+EMP0255,IT,Software Developer,Quebec City,2025-03-09,Full-time,Terminated,2026-10-12,85900,4.7,8,4,3
+EMP0256,Customer Service,Service Manager,Montreal,2024-08-26,Part-time,Terminated,2026-06-11,38000,3.8,8,17,1
+EMP0257,Marketing,Digital Marketing Analyst,Quebec City,2023-11-21,Full-time,Active,,66600,3.3,3,25,11
+EMP0258,Human Resources,HR Analyst,Montreal,2026-05-22,Full-time,Active,,52000,3.7,4,16,5
+EMP0259,Customer Service,Customer Service Representative,Quebec City,2025-06-02,Contract,Active,,44600,4.2,9,18,3
+EMP0260,Human Resources,HR Analyst,Toronto,2025-07-02,Full-time,Active,,63700,3.8,3,24,0
+EMP0261,Operations,Operations Manager,Quebec City,2025-08-19,Full-time,Active,,54900,2.8,4,12,11
+EMP0262,Operations,Operations Coordinator,Quebec City,2022-11-17,Full-time,Terminated,2025-03-23,58600,4.2,4,30,7
+EMP0263,Finance,Finance Manager,Montreal,2024-05-09,Part-time,Active,,71100,4.5,5,31,8
+EMP0264,Finance,Accountant,Toronto,2022-09-28,Full-time,Terminated,2023-09-15,79500,2.4,9,23,7
+EMP0265,Sales,Sales Representative,Quebec City,2025-11-26,Part-time,Active,,69500,1.8,2,5,27
+EMP0266,Customer Service,Service Manager,Quebec City,2022-10-03,Part-time,Active,,72300,4.0,1,29,3
+EMP0267,Sales,Sales Representative,Montreal,2024-11-06,Full-time,Active,,43100,5.0,1,18,12
+EMP0268,Customer Service,Customer Service Representative,Toronto,2025-01-13,Full-time,Active,,47500,3.4,8,11,9
+EMP0269,Operations,Operations Coordinator,Quebec City,2026-01-23,Part-time,Terminated,2026-10-08,69700,4.3,1,20,6
+EMP0270,Finance,Accountant,Quebec City,2022-02-01,Full-time,Active,,56400,3.6,4,15,4
+EMP0271,Operations,Operations Analyst,Montreal,2026-02-25,Full-time,Active,,74200,3.1,6,10,8
+EMP0272,Sales,Sales Manager,Quebec City,2022-05-28,Full-time,Terminated,2023-05-06,85200,3.1,2,9,16
+EMP0273,Customer Service,Team Lead,Toronto,2023-06-20,Full-time,Terminated,2024-02-04,41100,3.7,5,15,3
+EMP0274,Human Resources,HR Manager,Montreal,2024-11-20,Full-time,Active,,52400,3.4,2,0,8
+EMP0275,Operations,Operations Analyst,Quebec City,2026-08-14,Full-time,Active,,61400,3.0,4,19,2
+EMP0276,IT,Software Developer,Quebec City,2025-11-21,Part-time,Active,,102200,4.5,3,13,6
+EMP0277,Human Resources,HR Manager,Montreal,2026-05-17,Full-time,Terminated,2026-09-19,52800,2.7,6,8,3
+EMP0278,IT,IT Support Specialist,Quebec City,2023-08-01,Contract,Terminated,2024-11-29,85700,1.8,4,4,4
+EMP0279,Finance,Accountant,Montreal,2025-02-15,Contract,Active,,66500,2.4,4,14,5
+EMP0280,Customer Service,Service Manager,Quebec City,2025-08-10,Full-time,Active,,38000,2.5,2,8,2
+EMP0281,IT,Data Analyst,Toronto,2025-11-03,Full-time,Active,,95900,3.6,3,24,3
+EMP0282,Finance,Accountant,Toronto,2025-07-19,Full-time,Active,,82900,4.0,7,17,1
+EMP0283,Marketing,Marketing Specialist,Quebec City,2025-05-25,Full-time,Active,,61300,2.4,5,8,9
+EMP0284,Operations,Operations Analyst,Toronto,2023-09-02,Full-time,Terminated,2024-08-23,47200,3.8,5,17,13
+EMP0285,Sales,Account Manager,Quebec City,2023-06-20,Part-time,Active,,91600,3.6,3,22,8
+EMP0286,Customer Service,Service Manager,Montreal,2025-04-01,Full-time,Active,,53700,3.4,4,33,3
+EMP0287,IT,Data Analyst,Ottawa,2023-12-03,Full-time,Active,,58300,3.0,3,11,18
+EMP0288,Operations,Operations Manager,Quebec City,2024-04-04,Full-time,Active,,60100,2.8,5,8,8
+EMP0289,IT,Data Analyst,Quebec City,2024-02-29,Full-time,Terminated,2026-06-23,84000,4.1,3,21,2
+EMP0290,Customer Service,Team Lead,Quebec City,2025-05-06,Full-time,Active,,38000,3.8,2,29,7
+EMP0291,Sales,Sales Manager,Ottawa,2024-03-06,Full-time,Terminated,2024-10-18,84500,3.7,5,11,8
+EMP0292,Operations,Operations Manager,Quebec City,2022-09-09,Full-time,Active,,69000,2.7,5,21,13
+EMP0293,Sales,Sales Manager,Toronto,2023-03-08,Full-time,Active,,61100,3.5,7,25,18
+EMP0294,Finance,Financial Analyst,Quebec City,2023-09-04,Full-time,Active,,77500,3.6,4,23,6
+EMP0295,Sales,Sales Manager,Toronto,2022-05-04,Full-time,Active,,66000,3.1,7,17,7
+EMP0296,Finance,Accountant,Quebec City,2025-10-07,Full-time,Active,,60300,2.1,4,0,2
+EMP0297,IT,Software Developer,Ottawa,2026-10-14,Full-time,Active,,81700,2.8,5,21,4
+EMP0298,Human Resources,HR Coordinator,Quebec City,2024-02-28,Full-time,Terminated,2026-03-27,48600,3.8,8,13,9
+EMP0299,IT,IT Support Specialist,Quebec City,2026-07-03,Full-time,Active,,71600,4.6,3,11,1
+EMP0300,IT,IT Manager,Montreal,2025-07-13,Full-time,Active,,84900,3.3,2,27,6
+EMP0301,Sales,Account Manager,Montreal,2023-09-25,Full-time,Active,,71300,3.1,6,32,12
+EMP0302,Human Resources,Recruiter,Quebec City,2023-12-12,Full-time,Active,,58400,3.6,4,16,5
+EMP0303,Operations,Operations Analyst,Quebec City,2022-05-11,Full-time,Active,,71800,3.4,1,17,6
+EMP0304,Operations,Operations Manager,Quebec City,2026-02-26,Full-time,Active,,42700,3.6,6,13,7
+EMP0305,Finance,Accountant,Quebec City,2026-06-24,Full-time,Active,,57100,2.3,6,24,3
+EMP0306,Sales,Account Manager,Montreal,2025-01-04,Full-time,Active,,55600,3.5,5,0,11
+EMP0307,Customer Service,Service Manager,Toronto,2026-03-20,Full-time,Active,,53900,3.1,5,6,22
+EMP0308,IT,IT Support Specialist,Toronto,2024-07-23,Full-time,Active,,81800,3.5,5,11,17
+EMP0309,Marketing,Marketing Manager,Montreal,2022-03-27,Full-time,Terminated,2025-01-26,80100,2.4,5,8,14
+EMP0310,Finance,Financial Analyst,Quebec City,2024-05-08,Full-time,Active,,67500,4.1,3,16,23
+EMP0311,IT,Data Analyst,Toronto,2024-04-01,Full-time,Active,,76100,2.2,3,18,3
+EMP0312,Human Resources,HR Analyst,Toronto,2022-01-13,Part-time,Active,,44100,2.6,4,13,8
+EMP0313,Human Resources,Recruiter,Montreal,2024-02-16,Full-time,Active,,76500,4.3,4,17,10
+EMP0314,IT,Software Developer,Toronto,2026-06-12,Part-time,Active,,82200,5.0,3,17,3
+EMP0315,Sales,Sales Representative,Toronto,2024-12-22,Full-time,Active,,45900,3.6,3,6,1
+EMP0316,Marketing,Marketing Manager,Quebec City,2022-10-09,Contract,Active,,73500,4.7,5,9,8
+EMP0317,Finance,Financial Analyst,Montreal,2026-06-17,Full-time,Active,,83200,3.4,5,36,7
+EMP0318,Operations,Operations Manager,Montreal,2022-11-05,Full-time,Active,,64800,2.9,7,0,4
+EMP0319,Operations,Operations Coordinator,Montreal,2026-01-02,Part-time,Terminated,2026-10-05,68400,4.8,5,3,6
+EMP0320,Human Resources,Recruiter,Toronto,2022-02-13,Full-time,Active,,67500,2.7,4,3,1
+EMP0321,Customer Service,Service Manager,Quebec City,2022-11-14,Full-time,Active,,38000,3.4,1,9,4
+EMP0322,Sales,Sales Representative,Quebec City,2024-09-17,Part-time,Active,,53500,1.4,5,29,6
+EMP0323,Sales,Sales Representative,Ottawa,2023-06-29,Full-time,Terminated,2025-02-22,52600,2.8,5,8,6
+EMP0324,Human Resources,Recruiter,Quebec City,2022-11-04,Full-time,Active,,59300,3.2,2,8,11
+EMP0325,Human Resources,Recruiter,Montreal,2024-07-25,Part-time,Active,,68800,4.3,8,11,2
+EMP0326,Human Resources,HR Manager,Quebec City,2022-04-02,Part-time,Active,,48200,2.3,5,15,13
+EMP0327,Sales,Sales Manager,Montreal,2022-06-24,Full-time,Terminated,2022-12-10,76400,2.8,7,32,10
+EMP0328,Finance,Financial Analyst,Quebec City,2026-09-15,Full-time,Active,,52300,3.3,4,18,2
+EMP0329,Marketing,Marketing Specialist,Montreal,2026-10-27,Full-time,Active,,70500,3.0,3,27,1
+EMP0330,Sales,Account Manager,Toronto,2024-04-16,Part-time,Active,,82800,3.4,7,4,18
+EMP0331,Sales,Sales Manager,Quebec City,2026-02-21,Full-time,Active,,76100,3.9,5,30,1
+EMP0332,IT,IT Support Specialist,Ottawa,2022-10-17,Full-time,Terminated,2023-01-31,86200,3.6,5,22,8
+EMP0333,IT,IT Support Specialist,Toronto,2022-06-02,Full-time,Terminated,2024-11-20,75300,3.0,6,5,8
+EMP0334,Operations,Operations Analyst,Quebec City,2023-04-21,Full-time,Active,,53300,4.1,5,21,6
+EMP0335,Operations,Operations Manager,Montreal,2025-10-08,Part-time,Active,,56000,2.9,3,16,12
+EMP0336,Marketing,Marketing Manager,Quebec City,2022-03-19,Full-time,Active,,101600,3.6,5,6,9
+EMP0337,Finance,Finance Manager,Quebec City,2022-04-08,Full-time,Active,,73400,2.7,6,12,10
+EMP0338,Finance,Finance Manager,Montreal,2025-01-08,Full-time,Active,,89700,3.7,5,26,20
+EMP0339,Customer Service,Team Lead,Montreal,2024-03-16,Full-time,Active,,65000,3.4,11,9,2
+EMP0340,Finance,Financial Analyst,Toronto,2022-05-11,Full-time,Active,,82600,3.6,4,32,23
+EMP0341,Customer Service,Customer Service Representative,Montreal,2024-12-23,Full-time,Terminated,2026-01-28,52300,4.2,3,28,7
+EMP0342,Sales,Sales Manager,Quebec City,2022-06-20,Full-time,Terminated,2026-06-22,51900,3.4,4,17,12
+EMP0343,Customer Service,Service Manager,Quebec City,2023-04-05,Part-time,Active,,50500,3.2,6,20,6
+EMP0344,Sales,Sales Manager,Toronto,2024-12-16,Full-time,Active,,80200,3.2,5,28,2
+EMP0345,Finance,Financial Analyst,Montreal,2024-02-21,Full-time,Active,,50100,3.6,7,24,1
+EMP0346,IT,Data Analyst,Quebec City,2023-01-22,Full-time,Active,,70000,4.0,7,7,12
+EMP0347,Operations,Operations Coordinator,Quebec City,2023-05-18,Full-time,Terminated,2026-06-12,54400,4.2,2,8,13
+EMP0348,Finance,Finance Manager,Quebec City,2022-12-09,Part-time,Active,,73300,2.4,7,16,3
+EMP0349,Customer Service,Customer Service Representative,Montreal,2024-10-01,Full-time,Active,,63000,4.1,1,8,5
+EMP0350,IT,Data Analyst,Montreal,2024-10-11,Full-time,Active,,92100,3.0,4,23,12
+EMP0351,IT,IT Manager,Quebec City,2025-02-24,Full-time,Active,,90800,4.8,3,0,5
+EMP0352,Operations,Operations Coordinator,Quebec City,2025-09-19,Full-time,Active,,69900,3.0,2,18,2
+EMP0353,Sales,Sales Representative,Toronto,2023-11-23,Full-time,Active,,65100,4.4,3,18,17
+EMP0354,IT,IT Support Specialist,Ottawa,2023-05-25,Full-time,Terminated,2026-02-20,91300,3.7,2,11,10
+EMP0355,Customer Service,Service Manager,Montreal,2023-09-14,Part-time,Active,,38000,2.5,7,21,2
+EMP0356,Human Resources,Recruiter,Toronto,2025-09-01,Full-time,Active,,60800,3.8,7,22,16
+EMP0357,Operations,Operations Analyst,Ottawa,2025-03-20,Full-time,Terminated,2026-03-13,44700,4.2,5,22,17
+EMP0358,Human Resources,Recruiter,Quebec City,2025-09-10,Full-time,Active,,56900,3.4,8,33,16
+EMP0359,Customer Service,Customer Service Representative,Montreal,2023-11-04,Full-time,Active,,50100,3.8,5,17,6
+EMP0360,Human Resources,HR Analyst,Montreal,2024-12-12,Full-time,Terminated,2026-04-24,40400,3.7,8,17,0
+EMP0361,Finance,Financial Analyst,Montreal,2023-10-07,Full-time,Terminated,2024-02-12,47500,4.7,11,0,5
+EMP0362,Sales,Account Manager,Montreal,2026-05-22,Full-time,Active,,68100,3.3,6,15,5
+EMP0363,Operations,Operations Coordinator,Quebec City,2024-07-13,Full-time,Active,,56100,3.1,5,9,21
+EMP0364,Marketing,Digital Marketing Analyst,Quebec City,2025-03-30,Full-time,Active,,68700,2.9,5,20,13
+EMP0365,Customer Service,Service Manager,Quebec City,2026-07-21,Full-time,Active,,53200,2.3,1,13,13
+EMP0366,Sales,Account Manager,Montreal,2024-09-06,Full-time,Active,,66600,2.1,5,18,5
+EMP0367,Finance,Financial Analyst,Montreal,2022-10-20,Full-time,Active,,76400,3.8,5,16,8
+EMP0368,Human Resources,HR Coordinator,Montreal,2026-09-03,Full-time,Active,,49600,3.6,3,35,5
+EMP0369,Marketing,Marketing Manager,Montreal,2024-03-31,Part-time,Active,,79200,3.4,4,29,4
+EMP0370,Marketing,Marketing Specialist,Quebec City,2023-06-02,Full-time,Active,,85400,2.7,4,28,2
+EMP0371,Finance,Financial Analyst,Quebec City,2023-04-18,Full-time,Active,,72500,2.4,4,16,4
+EMP0372,IT,IT Manager,Montreal,2025-02-25,Full-time,Terminated,2026-02-26,90400,3.2,4,16,0
+EMP0373,Operations,Operations Coordinator,Quebec City,2023-01-31,Full-time,Active,,49700,3.6,4,17,1
+EMP0374,Operations,Operations Analyst,Toronto,2026-05-20,Full-time,Active,,70000,4.5,4,4,3
+EMP0375,Sales,Account Manager,Toronto,2022-06-11,Full-time,Active,,78100,2.6,3,3,5
+EMP0376,Marketing,Digital Marketing Analyst,Toronto,2022-06-18,Full-time,Active,,67900,2.4,3,28,14
+EMP0377,Finance,Finance Manager,Toronto,2025-02-10,Part-time,Terminated,2026-08-27,72000,4.1,3,15,14
+EMP0378,Customer Service,Customer Service Representative,Montreal,2023-05-18,Full-time,Terminated,2026-01-12,53900,3.3,3,10,11
+EMP0379,Finance,Finance Manager,Quebec City,2023-04-10,Full-time,Active,,73800,3.4,4,42,2
+EMP0380,IT,Data Analyst,Quebec City,2024-11-08,Part-time,Active,,83800,2.9,5,20,10
+EMP0381,Human Resources,HR Coordinator,Quebec City,2025-04-28,Full-time,Active,,38900,2.7,5,21,5
+EMP0382,Sales,Sales Manager,Toronto,2025-08-10,Part-time,Active,,60400,4.6,3,17,7
+EMP0383,IT,Data Analyst,Quebec City,2022-05-11,Full-time,Terminated,2025-10-30,96300,3.1,3,31,5
+EMP0384,Human Resources,HR Coordinator,Toronto,2023-05-23,Full-time,Active,,60900,1.8,4,20,18
+EMP0385,Sales,Sales Manager,Quebec City,2025-02-22,Full-time,Active,,71600,3.8,4,24,11
+EMP0386,Customer Service,Customer Service Representative,Quebec City,2025-05-02,Full-time,Active,,60700,3.3,7,25,0
+EMP0387,IT,IT Manager,Quebec City,2023-10-19,Full-time,Active,,75000,3.8,7,25,4
+EMP0388,IT,IT Support Specialist,Montreal,2025-10-23,Full-time,Active,,103800,3.9,4,10,7
+EMP0389,IT,Software Developer,Quebec City,2024-11-23,Full-time,Active,,89000,2.5,4,18,0
+EMP0390,IT,Data Analyst,Ottawa,2024-03-09,Full-time,Active,,57700,2.6,4,11,7
+EMP0391,Human Resources,HR Coordinator,Quebec City,2025-10-30,Full-time,Active,,69900,4.1,7,40,15
+EMP0392,Customer Service,Team Lead,Toronto,2022-09-02,Full-time,Active,,53800,2.4,2,35,13
+EMP0393,Human Resources,HR Coordinator,Quebec City,2022-03-04,Full-time,Active,,64400,3.7,4,24,6
+EMP0394,IT,IT Support Specialist,Ottawa,2026-04-23,Full-time,Active,,85900,3.4,7,12,3
+EMP0395,Operations,Operations Coordinator,Toronto,2026-02-07,Full-time,Active,,58100,4.1,6,0,6
+EMP0396,Human Resources,Recruiter,Toronto,2024-11-21,Full-time,Active,,77800,2.8,6,27,1
+EMP0397,Customer Service,Team Lead,Montreal,2024-03-08,Full-time,Active,,58400,3.2,7,31,3
+EMP0398,Sales,Account Manager,Quebec City,2022-08-16,Part-time,Terminated,2024-05-22,56400,2.9,6,26,3
+EMP0399,Operations,Operations Coordinator,Toronto,2024-02-03,Full-time,Terminated,2026-03-20,58700,4.1,3,17,21
+EMP0400,Marketing,Digital Marketing Analyst,Toronto,2022-10-02,Full-time,Terminated,2023-05-29,60100,3.0,5,20,5
+EMP0401,Customer Service,Customer Service Representative,Montreal,2024-07-08,Full-time,Active,,38000,2.6,5,7,9
+EMP0402,Finance,Accountant,Quebec City,2026-06-25,Full-time,Active,,73900,3.3,8,20,1
+EMP0403,Operations,Operations Coordinator,Quebec City,2023-10-06,Full-time,Active,,78300,3.0,8,8,13
+EMP0404,Operations,Operations Manager,Montreal,2024-12-28,Part-time,Active,,75900,3.8,1,20,9
+EMP0405,IT,IT Manager,Toronto,2025-05-11,Full-time,Active,,92700,3.2,2,41,6
+EMP0406,Marketing,Marketing Manager,Quebec City,2024-10-21,Part-time,Active,,63200,2.2,6,23,3
+EMP0407,Sales,Sales Representative,Quebec City,2025-09-04,Full-time,Active,,65000,2.8,6,10,8
+EMP0408,Sales,Sales Manager,Ottawa,2023-02-15,Full-time,Terminated,2023-08-29,53900,4.6,3,12,7
+EMP0409,Customer Service,Service Manager,Toronto,2024-07-03,Full-time,Active,,39100,2.5,4,21,6
+EMP0410,Finance,Accountant,Montreal,2026-03-27,Full-time,Active,,80800,2.6,10,33,7
+EMP0411,Customer Service,Team Lead,Toronto,2025-12-20,Full-time,Active,,47400,3.3,0,23,6
+EMP0412,IT,IT Support Specialist,Quebec City,2025-11-19,Contract,Active,,95600,2.7,2,21,7
+EMP0413,Human Resources,Recruiter,Quebec City,2026-03-10,Full-time,Active,,60800,3.3,4,31,11
+EMP0414,Marketing,Digital Marketing Analyst,Montreal,2023-04-28,Full-time,Active,,67400,3.1,4,18,2
+EMP0415,IT,IT Support Specialist,Toronto,2022-08-04,Full-time,Terminated,2025-09-01,84700,2.1,3,15,5
+EMP0416,Operations,Operations Manager,Montreal,2024-10-24,Full-time,Active,,61200,2.8,7,25,9
+EMP0417,Finance,Finance Manager,Quebec City,2026-04-15,Full-time,Active,,69700,3.0,3,11,9
+EMP0418,Sales,Sales Manager,Quebec City,2022-03-11,Full-time,Active,,69500,4.2,5,21,15
+EMP0419,Operations,Operations Manager,Montreal,2024-10-07,Full-time,Terminated,2026-01-10,46000,2.5,4,24,13
+EMP0420,Operations,Operations Analyst,Toronto,2025-01-11,Part-time,Active,,51400,2.6,4,15,4
+EMP0421,Operations,Operations Analyst,Montreal,2024-10-17,Full-time,Active,,75800,4.3,4,31,2
+EMP0422,Human Resources,HR Manager,Montreal,2022-06-17,Full-time,Active,,64300,3.1,1,16,4
+EMP0423,Human Resources,HR Analyst,Montreal,2025-11-11,Part-time,Terminated,2026-04-20,77900,2.9,7,20,11
+EMP0424,Sales,Account Manager,Montreal,2024-07-21,Full-time,Active,,38000,3.4,4,27,4
+EMP0425,Marketing,Digital Marketing Analyst,Toronto,2023-09-10,Full-time,Active,,58200,3.8,4,13,1
+EMP0426,Customer Service,Team Lead,Ottawa,2023-04-30,Full-time,Active,,56700,3.2,3,10,7
+EMP0427,Finance,Finance Manager,Ottawa,2022-02-14,Full-time,Terminated,2026-09-11,55900,4.4,3,35,28
+EMP0428,IT,IT Manager,Quebec City,2026-09-16,Full-time,Active,,90900,2.7,7,14,9
+EMP0429,Customer Service,Service Manager,Montreal,2023-10-18,Full-time,Active,,46000,4.0,3,21,2
+EMP0430,Sales,Sales Representative,Quebec City,2023-09-19,Full-time,Active,,61400,2.8,5,14,11
+EMP0431,Human Resources,HR Manager,Toronto,2025-02-25,Full-time,Active,,48000,3.1,5,5,9
+EMP0432,Customer Service,Team Lead,Ottawa,2022-01-25,Full-time,Active,,59000,3.2,10,22,8
+EMP0433,Sales,Account Manager,Montreal,2025-08-19,Full-time,Active,,63400,3.8,7,15,16
+EMP0434,Sales,Account Manager,Toronto,2022-04-30,Full-time,Active,,49600,5.0,8,17,2
+EMP0435,IT,IT Manager,Ottawa,2024-08-29,Full-time,Terminated,2026-05-30,65900,3.1,3,35,5
+EMP0436,IT,Software Developer,Montreal,2025-05-28,Contract,Active,,80600,3.9,9,18,4
+EMP0437,IT,Data Analyst,Toronto,2025-09-09,Full-time,Active,,107800,3.6,9,18,8
+EMP0438,Customer Service,Service Manager,Quebec City,2024-11-08,Full-time,Active,,57100,3.2,4,29,21
+EMP0439,Sales,Sales Representative,Quebec City,2026-10-04,Full-time,Active,,83100,3.8,6,19,1
+EMP0440,IT,IT Manager,Quebec City,2023-08-02,Full-time,Terminated,2024-10-22,68600,2.7,4,25,4
+EMP0441,Human Resources,HR Coordinator,Quebec City,2023-04-28,Full-time,Active,,69900,3.1,6,8,16
+EMP0442,Marketing,Marketing Specialist,Quebec City,2026-01-21,Full-time,Active,,66400,5.0,4,10,5
+EMP0443,IT,Software Developer,Quebec City,2024-04-25,Full-time,Active,,79700,3.4,3,19,1
+EMP0444,Finance,Finance Manager,Montreal,2026-08-19,Full-time,Active,,60000,3.3,5,28,22
+EMP0445,Customer Service,Service Manager,Toronto,2023-07-15,Full-time,Active,,59400,3.2,4,0,20
+EMP0446,IT,IT Support Specialist,Quebec City,2025-06-12,Full-time,Active,,68300,4.2,12,7,2
+EMP0447,Marketing,Marketing Specialist,Toronto,2026-07-04,Full-time,Active,,60100,3.2,5,22,1
+EMP0448,IT,IT Support Specialist,Montreal,2023-04-03,Full-time,Terminated,2023-08-17,64300,3.3,4,12,17
+EMP0449,Customer Service,Team Lead,Toronto,2024-12-22,Part-time,Active,,42300,2.3,0,31,15
+EMP0450,Sales,Sales Representative,Montreal,2022-03-25,Full-time,Active,,65800,3.1,5,28,0
+EMP0451,Sales,Sales Representative,Quebec City,2025-11-02,Full-time,Active,,68000,3.8,4,41,4
+EMP0452,Operations,Operations Analyst,Montreal,2025-12-24,Part-time,Active,,59200,3.7,9,23,5
+EMP0453,Customer Service,Team Lead,Toronto,2026-05-04,Full-time,Active,,58600,3.3,3,8,1
+EMP0454,Customer Service,Service Manager,Toronto,2023-09-02,Full-time,Active,,48500,3.7,4,16,9
+EMP0455,Marketing,Marketing Specialist,Quebec City,2026-07-18,Full-time,Active,,78800,2.3,4,23,7
+EMP0456,Operations,Operations Analyst,Montreal,2022-07-21,Full-time,Terminated,2026-05-06,53100,3.0,3,14,29
+EMP0457,Finance,Finance Manager,Montreal,2026-03-16,Contract,Terminated,2026-09-23,77200,3.2,7,19,20
+EMP0458,IT,Data Analyst,Montreal,2026-07-03,Full-time,Active,,81000,3.1,3,19,1
+EMP0459,IT,IT Manager,Quebec City,2023-07-19,Full-time,Active,,98900,3.7,5,20,7
+EMP0460,Finance,Financial Analyst,Toronto,2022-09-15,Full-time,Active,,62100,4.2,5,25,12
+EMP0461,IT,Data Analyst,Quebec City,2024-12-24,Contract,Active,,96100,2.9,1,7,7
+EMP0462,Finance,Accountant,Toronto,2023-02-07,Part-time,Active,,67000,3.9,4,6,9
+EMP0463,Finance,Finance Manager,Quebec City,2025-12-02,Full-time,Active,,60500,4.3,4,9,9
+EMP0464,Operations,Operations Manager,Quebec City,2024-05-14,Contract,Active,,71900,2.7,3,15,19
+EMP0465,Finance,Financial Analyst,Toronto,2024-01-16,Part-time,Terminated,2026-08-15,80400,3.8,6,23,10
+EMP0466,Sales,Account Manager,Quebec City,2025-07-15,Full-time,Active,,62200,4.3,3,3,9
+EMP0467,Sales,Account Manager,Quebec City,2022-11-10,Full-time,Active,,55600,3.7,8,13,6
+EMP0468,Finance,Financial Analyst,Ottawa,2022-02-08,Contract,Terminated,2022-06-04,69500,2.8,3,17,2
+EMP0469,Sales,Sales Manager,Ottawa,2026-10-04,Full-time,Active,,81100,4.4,5,40,4
+EMP0470,Human Resources,Recruiter,Montreal,2026-04-12,Full-time,Active,,53600,2.5,4,29,5
+EMP0471,IT,Data Analyst,Toronto,2025-07-14,Full-time,Active,,82600,2.6,6,29,6
+EMP0472,Operations,Operations Manager,Montreal,2025-03-26,Full-time,Active,,69500,2.4,6,17,3
+EMP0473,Customer Service,Customer Service Representative,Ottawa,2023-12-16,Full-time,Active,,51200,3.3,3,5,6
+EMP0474,Marketing,Marketing Manager,Quebec City,2023-12-25,Full-time,Active,,83000,2.7,9,2,1
+EMP0475,Sales,Account Manager,Toronto,2024-02-05,Contract,Active,,63300,3.6,9,9,0
+EMP0476,Finance,Finance Manager,Ottawa,2026-10-09,Full-time,Active,,63300,2.6,5,0,2
+EMP0477,IT,IT Support Specialist,Quebec City,2022-06-06,Part-time,Active,,75600,3.4,3,19,9
+EMP0478,Finance,Financial Analyst,Toronto,2023-01-01,Full-time,Active,,72100,2.9,8,0,4
+EMP0479,IT,IT Manager,Quebec City,2023-09-08,Full-time,Active,,67300,2.5,4,13,1
+EMP0480,IT,IT Support Specialist,Montreal,2023-12-19,Full-time,Active,,84500,2.0,5,19,12
+EMP0481,IT,IT Support Specialist,Montreal,2025-09-21,Full-time,Active,,52900,3.7,4,23,20
+EMP0482,IT,Software Developer,Quebec City,2024-01-22,Part-time,Active,,86900,3.6,3,14,4
+EMP0483,Finance,Financial Analyst,Toronto,2022-05-05,Full-time,Terminated,2026-01-30,73100,3.9,9,10,5
+EMP0484,Marketing,Marketing Manager,Quebec City,2024-01-20,Part-time,Active,,72000,3.9,5,30,6
+EMP0485,Operations,Operations Coordinator,Quebec City,2022-04-03,Full-time,Active,,56900,2.7,5,17,1
+EMP0486,Customer Service,Team Lead,Montreal,2025-05-09,Part-time,Active,,38000,3.4,6,14,14
+EMP0487,IT,Software Developer,Montreal,2024-05-03,Full-time,Active,,79100,4.0,1,20,3
+EMP0488,Sales,Account Manager,Montreal,2023-07-17,Full-time,Active,,76300,3.1,6,14,12
+EMP0489,Operations,Operations Coordinator,Montreal,2022-06-09,Full-time,Terminated,2023-09-29,77100,1.1,3,13,2
+EMP0490,Sales,Sales Manager,Toronto,2026-06-12,Full-time,Active,,58100,3.0,4,19,15
+EMP0491,Human Resources,HR Analyst,Toronto,2025-05-20,Full-time,Terminated,2025-10-12,44800,2.9,3,16,0
+EMP0492,Finance,Financial Analyst,Ottawa,2025-02-18,Full-time,Active,,59300,3.0,3,12,14
+EMP0493,Operations,Operations Analyst,Quebec City,2024-08-03,Part-time,Active,,58600,3.1,4,27,17
+EMP0494,Customer Service,Team Lead,Toronto,2022-11-28,Full-time,Active,,47800,2.4,6,23,2
+EMP0495,IT,IT Manager,Toronto,2025-12-07,Full-time,Active,,71200,3.1,0,23,4
+EMP0496,Human Resources,HR Manager,Quebec City,2022-10-29,Full-time,Terminated,2023-03-27,68300,2.5,5,20,5
+EMP0497,Customer Service,Customer Service Representative,Toronto,2026-09-08,Full-time,Active,,38500,3.8,4,17,15
+EMP0498,Finance,Accountant,Toronto,2022-09-10,Full-time,Terminated,2026-02-09,96000,3.4,2,16,5
+EMP0499,Customer Service,Team Lead,Montreal,2026-05-14,Full-time,Active,,45000,2.2,8,10,10
+EMP0500,Finance,Accountant,Ottawa,2024-04-26,Full-time,Active,,54100,3.5,4,12,2
+EMP0501,IT,Data Analyst,Toronto,2022-01-04,Full-time,Active,,99400,3.4,4,37,8
+EMP0502,Customer Service,Service Manager,Quebec City,2024-11-11,Full-time,Active,,52000,3.4,5,21,1
+EMP0503,Customer Service,Service Manager,Ottawa,2023-01-05,Full-time,Active,,44700,3.5,10,25,6
+EMP0504,Finance,Financial Analyst,Quebec City,2022-08-14,Full-time,Active,,75800,3.8,4,31,3
+EMP0505,Human Resources,Recruiter,Toronto,2024-10-16,Full-time,Active,,54700,4.6,2,16,23
+EMP0506,Marketing,Digital Marketing Analyst,Montreal,2022-05-17,Full-time,Terminated,2025-09-19,74100,2.6,3,2,2
+EMP0507,IT,Data Analyst,Toronto,2025-02-24,Contract,Active,,81700,2.8,6,13,1
+EMP0508,Operations,Operations Analyst,Montreal,2023-01-11,Full-time,Active,,65700,4.0,3,16,1
+EMP0509,IT,Software Developer,Montreal,2023-08-30,Full-time,Active,,100000,3.6,6,4,23
+EMP0510,Finance,Financial Analyst,Montreal,2023-04-09,Full-time,Terminated,2024-08-28,58900,3.5,9,19,6
+EMP0511,Sales,Sales Representative,Toronto,2023-11-24,Full-time,Terminated,2025-07-31,64000,2.9,6,21,8
+EMP0512,Operations,Operations Coordinator,Quebec City,2025-10-04,Full-time,Active,,64100,3.5,5,6,3
+EMP0513,Operations,Operations Analyst,Quebec City,2026-01-11,Full-time,Active,,78400,4.0,6,22,8
+EMP0514,Operations,Operations Coordinator,Ottawa,2022-09-22,Full-time,Active,,46700,4.6,7,27,13
+EMP0515,Human Resources,HR Coordinator,Montreal,2024-05-31,Full-time,Active,,60200,4.3,6,22,8
+EMP0516,Operations,Operations Coordinator,Quebec City,2024-10-22,Part-time,Active,,79900,2.4,5,40,3
+EMP0517,Sales,Sales Manager,Montreal,2022-04-25,Full-time,Terminated,2025-02-03,76300,3.7,6,6,3
+EMP0518,IT,IT Manager,Toronto,2022-01-05,Full-time,Terminated,2024-11-21,80200,3.4,6,13,3
+EMP0519,Sales,Account Manager,Quebec City,2023-09-28,Part-time,Terminated,2026-08-08,73300,4.1,5,25,3
+EMP0520,Operations,Operations Manager,Quebec City,2022-05-22,Full-time,Active,,69100,3.9,5,6,6
+EMP0521,Finance,Financial Analyst,Ottawa,2022-02-10,Full-time,Active,,66000,4.2,5,16,4
+EMP0522,IT,IT Support Specialist,Quebec City,2024-09-04,Contract,Active,,81600,2.4,6,11,5
+EMP0523,Sales,Sales Representative,Quebec City,2024-09-27,Full-time,Active,,71000,2.5,7,27,3
+EMP0524,Customer Service,Service Manager,Quebec City,2025-11-06,Full-time,Active,,38000,2.8,8,8,1
+EMP0525,Marketing,Marketing Specialist,Quebec City,2023-08-13,Full-time,Active,,52200,2.7,6,22,6
+EMP0526,Operations,Operations Coordinator,Toronto,2025-10-16,Full-time,Active,,64500,3.5,4,14,7
+EMP0527,Marketing,Marketing Manager,Quebec City,2026-07-22,Full-time,Active,,58600,3.0,11,20,16
+EMP0528,Marketing,Marketing Manager,Quebec City,2024-01-06,Full-time,Active,,96200,4.2,2,24,8
+EMP0529,Operations,Operations Manager,Quebec City,2026-01-20,Contract,Active,,71200,4.0,8,15,4
+EMP0530,Sales,Account Manager,Montreal,2025-04-17,Full-time,Active,,49600,2.3,7,22,9
+EMP0531,IT,Software Developer,Quebec City,2026-09-05,Full-time,Active,,61500,3.0,3,11,12
+EMP0532,Finance,Finance Manager,Quebec City,2022-07-16,Contract,Terminated,2025-02-05,67000,2.2,11,14,11
+EMP0533,IT,Data Analyst,Quebec City,2026-05-27,Full-time,Active,,101700,3.5,11,19,16
+EMP0534,Sales,Sales Manager,Quebec City,2022-07-12,Full-time,Active,,86100,3.3,4,32,9
+EMP0535,Operations,Operations Coordinator,Montreal,2026-10-03,Full-time,Active,,67300,2.9,6,23,7
+EMP0536,Operations,Operations Coordinator,Montreal,2026-03-01,Full-time,Active,,70600,2.8,6,20,4
+EMP0537,Marketing,Marketing Specialist,Quebec City,2023-02-20,Full-time,Terminated,2025-02-19,67300,4.3,3,20,12
+EMP0538,IT,Data Analyst,Montreal,2023-07-22,Full-time,Active,,96700,3.6,5,27,4
+EMP0539,IT,IT Support Specialist,Ottawa,2023-04-27,Full-time,Terminated,2025-03-03,75700,3.0,6,18,10
+EMP0540,Operations,Operations Coordinator,Quebec City,2025-12-11,Full-time,Active,,44000,4.9,3,19,14
+EMP0541,IT,IT Manager,Toronto,2022-12-06,Full-time,Terminated,2023-03-21,62000,4.9,2,15,13
+EMP0542,Sales,Sales Representative,Quebec City,2024-01-12,Full-time,Active,,56700,2.6,3,15,2
+EMP0543,Sales,Sales Manager,Montreal,2022-03-11,Full-time,Active,,43100,3.5,5,15,6
+EMP0544,Operations,Operations Analyst,Quebec City,2023-04-29,Full-time,Active,,65100,3.5,8,31,3
+EMP0545,Marketing,Marketing Specialist,Quebec City,2022-08-31,Full-time,Active,,68700,4.1,4,13,13
+EMP0546,Sales,Account Manager,Ottawa,2022-05-20,Full-time,Active,,66300,2.7,6,1,6
+EMP0547,Finance,Financial Analyst,Quebec City,2024-12-23,Full-time,Active,,54800,4.3,6,16,5
+EMP0548,Finance,Finance Manager,Montreal,2023-01-11,Full-time,Active,,72400,3.0,13,0,6
+EMP0549,Operations,Operations Coordinator,Ottawa,2026-08-17,Full-time,Active,,49800,3.0,5,27,3
+EMP0550,Finance,Finance Manager,Montreal,2024-11-23,Full-time,Active,,77600,3.0,4,13,5
+EMP0551,Customer Service,Service Manager,Quebec City,2023-03-24,Full-time,Active,,50500,2.2,2,20,7
+EMP0552,Sales,Sales Representative,Toronto,2026-03-25,Full-time,Active,,70600,3.4,6,0,5
+EMP0553,Operations,Operations Coordinator,Toronto,2022-03-05,Full-time,Terminated,2023-04-18,61700,2.4,3,15,5
+EMP0554,IT,IT Support Specialist,Montreal,2023-08-18,Full-time,Active,,95200,2.4,5,23,4
+EMP0555,Operations,Operations Manager,Quebec City,2024-04-18,Full-time,Active,,53800,3.0,6,26,10
+EMP0556,Finance,Accountant,Ottawa,2026-03-03,Full-time,Terminated,2026-06-03,67700,3.3,5,21,6
+EMP0557,Customer Service,Service Manager,Montreal,2024-04-18,Full-time,Terminated,2026-01-01,53000,2.0,5,28,5
+EMP0558,Marketing,Digital Marketing Analyst,Quebec City,2026-02-21,Part-time,Terminated,2026-07-24,81400,3.7,11,19,6
+EMP0559,Finance,Finance Manager,Ottawa,2023-10-08,Full-time,Active,,86000,2.4,4,19,16
+EMP0560,Sales,Sales Manager,Montreal,2025-05-14,Full-time,Active,,73900,3.1,11,17,2
+EMP0561,Human Resources,HR Analyst,Montreal,2023-08-18,Part-time,Active,,57800,2.5,4,16,2
+EMP0562,IT,Data Analyst,Montreal,2022-04-26,Full-time,Active,,65400,1.9,8,29,9
+EMP0563,Marketing,Marketing Specialist,Quebec City,2022-12-11,Full-time,Active,,76300,2.5,5,30,12
+EMP0564,IT,IT Manager,Quebec City,2024-04-04,Full-time,Terminated,2024-07-14,88000,3.6,6,32,9
+EMP0565,IT,Data Analyst,Quebec City,2022-12-19,Contract,Active,,80000,2.5,7,4,1
+EMP0566,Marketing,Digital Marketing Analyst,Montreal,2022-09-18,Full-time,Active,,60500,4.0,8,23,10
+EMP0567,Human Resources,HR Coordinator,Montreal,2023-12-27,Full-time,Terminated,2026-01-15,53600,2.9,4,27,1
+EMP0568,Human Resources,HR Coordinator,Montreal,2023-09-03,Full-time,Active,,71300,2.7,3,28,15
+EMP0569,Sales,Account Manager,Montreal,2024-05-17,Full-time,Active,,42200,3.3,2,17,1
+EMP0570,Sales,Account Manager,Montreal,2025-09-27,Full-time,Active,,52500,2.4,9,0,7
+EMP0571,Finance,Financial Analyst,Quebec City,2023-06-03,Full-time,Active,,55900,1.4,3,3,1
+EMP0572,IT,Software Developer,Quebec City,2022-08-27,Full-time,Active,,69300,5.0,6,23,17
+EMP0573,Marketing,Marketing Specialist,Toronto,2023-11-21,Full-time,Active,,70500,5.0,7,18,28
+EMP0574,Sales,Sales Manager,Toronto,2023-10-06,Full-time,Active,,80000,3.0,8,11,1
+EMP0575,Operations,Operations Analyst,Ottawa,2024-04-09,Part-time,Terminated,2026-03-13,83800,3.9,4,26,12
+EMP0576,Customer Service,Service Manager,Montreal,2024-02-29,Full-time,Active,,54400,3.0,5,15,5
+EMP0577,Customer Service,Team Lead,Toronto,2022-08-19,Full-time,Terminated,2025-06-16,38000,2.5,1,1,4
+EMP0578,Operations,Operations Manager,Quebec City,2023-02-05,Full-time,Terminated,2024-02-07,78000,3.5,4,16,9
+EMP0579,Sales,Sales Manager,Quebec City,2024-04-03,Full-time,Active,,50400,3.7,7,12,6
+EMP0580,Finance,Accountant,Montreal,2025-06-16,Full-time,Active,,75000,3.3,9,14,2
+EMP0581,Sales,Account Manager,Toronto,2022-02-23,Full-time,Active,,69600,3.6,5,29,5
+EMP0582,Finance,Finance Manager,Montreal,2026-02-14,Full-time,Active,,78100,3.3,3,17,14
+EMP0583,Finance,Accountant,Montreal,2022-11-03,Full-time,Active,,85200,2.7,7,1,5
+EMP0584,IT,Software Developer,Toronto,2022-04-02,Contract,Active,,70300,2.7,3,9,14
+EMP0585,Marketing,Marketing Specialist,Montreal,2024-08-24,Full-time,Active,,79200,5.0,7,15,3
+EMP0586,IT,Data Analyst,Montreal,2024-05-09,Full-time,Active,,83300,1.7,6,23,6
+EMP0587,IT,Software Developer,Quebec City,2022-11-26,Contract,Active,,95400,3.9,3,25,10
+EMP0588,IT,Data Analyst,Quebec City,2026-10-08,Contract,Active,,59600,2.5,9,16,2
+EMP0589,Customer Service,Service Manager,Montreal,2024-01-02,Full-time,Terminated,2024-10-18,48500,4.0,4,7,8
+EMP0590,Marketing,Digital Marketing Analyst,Toronto,2022-11-07,Part-time,Active,,55600,3.4,4,6,7
+EMP0591,Marketing,Marketing Specialist,Montreal,2023-04-09,Full-time,Active,,60100,3.9,4,37,19
+EMP0592,Sales,Sales Representative,Montreal,2024-11-21,Full-time,Active,,56000,3.0,4,20,2
+EMP0593,Sales,Account Manager,Quebec City,2025-04-06,Full-time,Active,,56500,3.2,4,8,4
+EMP0594,Operations,Operations Manager,Quebec City,2022-04-03,Full-time,Terminated,2025-02-20,55700,1.8,5,16,5
+EMP0595,Operations,Operations Analyst,Montreal,2024-03-17,Part-time,Active,,83700,2.5,6,11,8
+EMP0596,Sales,Sales Representative,Ottawa,2024-10-31,Full-time,Active,,55500,5.0,2,32,3
+EMP0597,Finance,Finance Manager,Toronto,2025-07-31,Contract,Active,,65400,4.5,8,24,9
+EMP0598,Finance,Finance Manager,Toronto,2026-04-03,Full-time,Active,,90100,3.4,6,9,10
+EMP0599,Customer Service,Service Manager,Toronto,2024-08-12,Full-time,Active,,47900,2.5,10,29,15
+EMP0600,IT,IT Support Specialist,Ottawa,2024-08-15,Full-time,Terminated,2025-12-29,86400,3.5,4,11,1
