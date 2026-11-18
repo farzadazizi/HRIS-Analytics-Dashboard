@@ -1,0 +1,18 @@
+SELECT
+    COUNT(*) AS Total_Headcount,
+
+    SUM(CASE
+        WHEN Employment_Status = 'Active' THEN 1
+        ELSE 0
+    END) AS Active_Employees,
+
+    SUM(CASE
+        WHEN Employment_Status = 'Terminated' THEN 1
+        ELSE 0
+    END) AS Terminated_Employees,
+
+    ROUND(AVG(Annual_Salary), 2) AS Average_Salary,
+
+    ROUND(AVG(Performance_Rating), 2) AS Average_Performance
+
+FROM powerbi.source.hris_employee_data;
